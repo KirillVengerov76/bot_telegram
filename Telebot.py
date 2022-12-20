@@ -3,7 +3,7 @@ import sys
 import telebot
 import json
 from telebot import types
-bot = telebot.TeleBot('5868385571:AAEPjH6Df5bkifjLzwLSVaq6GEBQQqOqzI4')
+bot = telebot.TeleBot('Bot_token)#########################################Your token
 
 class Inventory: #В глобале должен быть список смежности l
     _node = 0
