@@ -5,4 +5,5 @@ To work with it do this:
 3. Start pycharm and choose file name Telebot
 4. Press run
 5. Open Telegram and in the search type @Game_start_house_bot(Demon Slayer)
+
 P.S. You need to install library pytelegrambotapi in pycharm
